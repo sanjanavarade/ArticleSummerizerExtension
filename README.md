@@ -18,14 +18,14 @@ Built with simplicity, speed, and productivity in mind.
 
 ## 📸 Screenshots
 
-> *(Add your own screenshots in the `/assets` folder and update paths here)*
+
 
 ### Extension Popup
 ![Popup Screenshot]("<img width="1780" height="946" alt="Screenshot 2025-08-19 194302" src="https://github.com/user-attachments/assets/f9b16f32-6d57-434f-8feb-040e81140cfa" />
 ")
 
 ### Summarized Output Example
-![Summary Example](<img width="1783" height="951" alt="Screenshot 2025-08-19 194340" src="https://github.com/user-attachments/assets/3ae14b3e-0950-4e6c-8e15-3b130b7918f7" />
+![Summary Example](<img width="1783" height="951" alt="Screenshot 2025-08-19 194340" src="https://github.com/user-attachments/assets/590a2058-5b9a-4eb7-8cae-c3581761a093" />
 )
 
 ---
@@ -37,13 +37,13 @@ Built with simplicity, speed, and productivity in mind.
    git clone https://github.com/sanjanavarade/ArticleSummerizerExtension.git
    cd ArticleSummerizerExtension
 
-Add your API key
+2.Add your API key
 
 Open the options or config file.
 
 Paste your OpenAI (or other AI provider) API key.
 
-Load in your browser
+3.Load in your browser
 
 Go to chrome://extensions/
 
@@ -51,7 +51,7 @@ Enable Developer mode
 
 Click Load unpacked and select the project folder
 
-Start summarizing!
+4.Start summarizing!
 
 Click the extension icon → Summarize Page
 
